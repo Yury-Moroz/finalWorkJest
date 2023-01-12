@@ -1,5 +1,3 @@
-import { stringify } from "ts-jest";
-
 export class Registration {
   email(a: string) {
     return a;
